@@ -33,8 +33,6 @@ In the project directory, create a .env file and set the following environment v
 
 MONGODB_URI='mongodb://zero:zero12015@ac-bspitmr-shard-00-00.rwqyjgg.mongodb.net:27017,ac-bspitmr-shard-00-01.rwqyjgg.mongodb.net:27017,ac-bspitmr-shard-00-02.rwqyjgg.mongodb.net:27017/?ssl=true&replicaSet=atlas-111sgz-shard-0&authSource=admin&retryWrites=true&w=majority'
 
-Replace your-mongodb-uri with the connection URI for your MongoDB database.
-
 **Usage**
 
 Start the server:
